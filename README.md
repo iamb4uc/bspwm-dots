@@ -1,7 +1,13 @@
 # BSPWM-Rice
 
+## Screenshots
+![1](screenshots/BSPWM-Minimal-gruvbox1.png)
+![2](screenshots/BSPWM-Minimal-gruvbox2.png)
+![3](screenshots/BSPWM-Minimal-gruvbox3.png)
+![4](screenshots/BSPWM-Minimal-gruvbox4.png)
+
 ### Details
-***OS***: Artix
+***OS***: Artix  
 ***WM***: bspwm  
 ***TERMINAL***: st  
 ***Bar***: polybar  
