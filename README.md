@@ -1,5 +1,7 @@
 # BSPWM-Rice
 
+New Parition new distro and new window manager
+
 ## Screenshots
 ![1](screenshots/BSPWM-Minimal-gruvbox1.png)
 ![2](screenshots/BSPWM-Minimal-gruvbox2.png)
