@@ -4,7 +4,7 @@
 
 # terminal emulator
 super + shift + Return
-	st	
+	alacritty	
 
 # program launcher
 super + {d,q} 
@@ -13,10 +13,10 @@ super + {d,q}
 # application launchers
 # gui
 super + shift + {w,e,f,s,d}
-	{chromium,geany,thunar,signal-desktop,discord}
+	{brave,geany,st -e ranger,signal-desktop,discord}
 # tui
-super + {h,f,p,n}
-	{st -e gotop,st -e ranger, st -e pulsemixer, st -e nvim}
+super + {h,p,n}
+	{st -e gotop,st -e pulsemixer,st -e nvim}
 
 # make sxhkd reload its configuration files:
 super + Escape
